@@ -32,6 +32,7 @@ model.py – Implementation of the Naive Bayes language identification model.
 scoring.py – Functions to compute accuracy and confusion matrices.
 
 test.py – Script for training and testing the model on a dataset.
+(Email me for Train.tsv and Dev.tsv files)
 
 Usage:
 
